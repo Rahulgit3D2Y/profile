@@ -69,7 +69,7 @@ body {
   /* ADD YOUR CODE HERE */
   background-color: var(--card-bg-clr);
   border-radius: var(--card-rounded-border);
-  backdrop-filter: blur(3px);
+  backdrop-filter: blur(5px);
   color: var(--text-clr);
   border: var(--border-size);
   box-shadow: -1px -1px var(--border-clr);
